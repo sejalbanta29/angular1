@@ -1,0 +1,17 @@
+h1{
+    color:dodgerblue;
+    
+    text-align: center;
+}
+label{
+    padding-left: 490px;
+    color: grey;
+}
+p{
+    padding-left: 490px;
+}
+#btn{
+ width: 50%;
+ margin-left: 25%;
+ margin-right: 25%;
+}
